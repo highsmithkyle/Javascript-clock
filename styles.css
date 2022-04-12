@@ -26,6 +26,10 @@ body {
   border-radius: 50%;
   border: 2px solid black;
   position: relative;
+  /* background-image: url(./UW.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center; */
 }
 
 .clock .number {
